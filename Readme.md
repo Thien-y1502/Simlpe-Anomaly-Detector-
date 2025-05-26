@@ -57,17 +57,6 @@ timestamp,connection_count
 * Phân tích dữ liệu log mạng
 * Phát hiện hành vi bất thường trong bảo mật
 * Kiểm tra lưu lượng truy cập tăng đột biến
-
-## 📸 Giao diện mẫu
-
-![demo](https://raw.githubusercontent.com/yourusername/anomaly-detector/main/demo.png) *(thay ảnh khi cần)*
-
-## 📌 Gợi ý mở rộng
-
-* Cho người dùng điều chỉnh ngưỡng (slider)
-* Thêm nhiều đặc trưng khác ngoài connection\_count
-* Phân tích dữ liệu theo IP / thời gian cao điểm
-
 ---
 
 Made with ❤️ for Cybersecurity projects.
